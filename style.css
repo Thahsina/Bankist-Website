@@ -141,6 +141,8 @@
     list-style: none;
   }
   
+
+  
   .nav__item {
     margin-left: 4rem;
   }
@@ -280,6 +282,7 @@
   .operations__tab-container {
     display: flex;
     justify-content: center;
+    
   }
   
   .operations__tab {
